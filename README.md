@@ -7,6 +7,5 @@
 3. Click Local:(Ctrl+Your Ip)
 
 
-<img src="navbar-sc1.png" />
-<img src="navbar-sc2.png" />
-<img src="navbar-sc3.png" />
+<img src="navbar-gif.gif" />
+
